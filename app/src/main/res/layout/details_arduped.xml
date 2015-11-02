@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       Water rocket challenge is basically a technical event in which a water rocket is launched using the concept of air pressure.It is a type of Model Rocket using water as its reaction mass . The rocket is particularly made from plastic softdrink bottles. The water is forced out by a pressurised gas, typically compressed air. It operates on the principle of Newton’s Third Law of motion
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="The registrations will be started 2 weeks before ATHARVA, so that the participants may register as earliest and start preparing for their water rocket. Maximum number of members in a team should not exceed three. Nothing except air and water should be used in the rocket. Launch pad and pump will be provided but if size of nozzle, launch pad and pump size varies then we will not be responsible, so participants are requested to bring their own. Height of launcher used should not be more than 0.5 meter. Each team would be given two chances out of which best will be considered. The rocket which will remain for the longer time in the air would be declared as winner. Another award for best innovative rocket design will be given. The participants may use any innovative ideas in their rocket design to achieve the goal like parachutes. "/>
+
+        
+    </LinearLayout>
+    

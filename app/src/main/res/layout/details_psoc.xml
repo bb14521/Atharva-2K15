@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        Auto-Spark highlighted the need of technology for development of skill in the Upcoming Engineers in the field of Automotive Engineering. This event consists of three rounds. It will base on the need of innovation tackle day-to-day problems in the Automotive Engineering efficiently. So ignite your world by taking a part of this event. Our Motive is to introduce the practicality to the next generation engineers so that they can explore themselves in better way in the competitive surrounding.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       ROUND-1 (Brain Booster) In the preliminary round we gonna show short clips regarding Engineering - science and participants have to answer the questions asked in between these clips. Number of short clips are 6-7.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+         ROUND-2 (Mind-Accelerator)* Team of two will be made to face this round. Each team has fixed time limit, to answer the Questions displayed on the screen.(+10 for each correct answer and -5 for wrong one.)
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        ROUND-3 (Puzzler) In the final round participants are provide a word puzzle which give them the clue for the parts which they have to assemble. We gonna provide an assembly picture and the detail sheet for every assembly to the participants. The first three team who assemble the parts will be the winners.
+        "/>
+
+        
+    </LinearLayout>
+    

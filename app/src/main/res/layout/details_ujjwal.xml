@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="When you are in a race, you race to win because second or third place is not enough. "/>
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Design and make a robot which will find directions in maze automatically once it is programmed and team that takes less time to reach the end point will be the winner team. "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text=". A team can consist of a maximum of 3 participants. Students from different educational institutions can form a team.  \n 2. If one bot has been damaged in the arena then the team will be given 2 min to repair their bot. \n  3. Teams cannot use other team’s robot in the arena. \n  4. The team that will complete the whole maze with least amount of time will be declared as winner team. \n 5. Team should use the battery of given specifications.  "/>
+</LinearLayout>

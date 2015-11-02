@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\scan  harman\TechFest2k15-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\classes-21e9e31d872ae583ba2c0fa4b233acd3a75b62d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman Bhutani\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\picasso-2.4.0-af3b29015030809c6e40ba335a41dbbce0987f75.jar" />
+    </item>
+    <item
+        jar="D:\scan  harman\TechFest2k15-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\classes-66ff1d94937f4d7ce747c315433ac669756e5137.jar" />
+    </item>
+    <item
+        jar="D:\scan  harman\TechFest2k15-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\classes-f74abdc567d0b5dfa8ddc32a95b1cedd293e7358.jar" />
+    </item>
+    <item
+        jar="D:\scan  harman\TechFest2k15-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-11544b1856ab7d6e77fbe96e3f318adf94a661b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman Bhutani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-902cb996813754bdb586066787005ef2c9733293.jar" />
+    </item>
+    <item
+        jar="D:\scan  harman\TechFest2k15-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="D:\scan  harman\TechFest2k15-master\app\build\intermediates\pre-dexed\release\classes-e47405f379407c36d6b22639c287563b430872e3.jar" />
+    </item>
+
+</items>

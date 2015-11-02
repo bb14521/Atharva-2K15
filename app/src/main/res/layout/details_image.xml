@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="A Workshop On Image Processing , its applications and its scope in future world"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text=" Registration Fee - 100/- for GNDEC students \n Registration Fee - 150/- for outsiders "/>
+</LinearLayout>

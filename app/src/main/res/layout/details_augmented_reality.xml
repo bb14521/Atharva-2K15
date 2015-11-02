@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        obseessive with engineering ,come on lets do some engineering with sticks . Make models like flyovers, bridges etc.Bridge the GAP with closed minds through careful dissection of IDEAS and Solid presentation of facts!!!  apply the science facts to make a balanced design that can overcome weights over them , so come as team and create something that worth appreciation , a real engineer deserves
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        In this Event, students will work on the live modelling projects.
+        "/>
+
+        
+    </LinearLayout>
+    

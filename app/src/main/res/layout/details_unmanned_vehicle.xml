@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Round 1: UNLEASH YOUR IMAGINATION · In this round students will be given an A4 size paper, a pencil,an eraser and a sharpner. · The participant will be stated the name of some object for e.g car and they need to draw free hand sketch of it. · 20-30 best participants will be shortlisted for next round.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Round 2: 3-D CREATIVITY · The qualified students will be given a new A4 size paper and a scale · An object will be placed in front of them and they will told to draw a 3D sketch of it. · 10 best participant will be selected for next round.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Round 3: FULFILL WHAT OMITTED · This is the last round and the final selected participants will be given a print of three views( side , front , top) of some drawing with some detail omitted ·
+        "/>
+
+        
+    </LinearLayout>
+    

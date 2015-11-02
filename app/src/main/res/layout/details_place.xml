@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="In our day to day life we interact with lots of people. Many of them question us what we can do or what we can't do but they don't know who we are. So guys want to explore your potential.....? This is the right place for you - PLACENARIO 2.0 - a platform to get placements in a techno - fun way. Explore yourself in learning and unveiling different aspects of Placements. So tighten up your belts to step into a new era. GET GOING, MOVE FORWARD, AIM HIGH. "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 1: BRAIN TEASERS The prelude round will be a paper-pen based assessment of your Aptitude and Reasoning.
+"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="ROUND 2: LET’S TALK The time to fight for your thoughts. Stand for your views in a round table.
+"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 3: POP YOUR VIEWS Be yourself and let your tongue play the game. Rules and Regulations: 1. Bring a proper RESUME along with you. 2. Only single entries are allowed. 3. Participants involving in any kind of malpractice will be immediately disqualified. 4. Decisions made by the judges will be final. 5. Students should bring a pen during the preliminary round. No other paper or printed material is permitted. 6. Participants should be formally dressed.
+ "/>
+
+</LinearLayout>

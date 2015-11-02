@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 1: Game Of Selfie Online Event.Winner(starts about 10 days before the main event) will be decided with most number of likes because the seven kingdoms need a ruler loved by millions and that one enters round 2 a) of the main event. "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 2: Knowledge Is Power A question paper to check the ability of each contestant. The top scorer Clears The round and goes to round two.14 will be selected. "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="ROUND 3a): Know Your House The selected 15 people(14 from round one and 1 from round zero) will be given tasks based on (priority) a)convincing power(convince our member why he should go to final) b)puzzle(a logical puzzle) c)endurance(a physical task) and the one winning most ,3 of them will go to Final. "/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Round 3b): Brotherhood Without Banner This will be hardcore Got Quiz on ppt with speakers(we will need a room with projector) and the winner (who answers most questions) goes to final round. "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Round 4: Valar Morghulis The 4 finalist will play a strategic Board Game. They will be given money,army and special power and they have try and conquer most land on the map of westeroes"/>
+</LinearLayout>

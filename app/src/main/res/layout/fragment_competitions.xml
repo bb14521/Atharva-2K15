@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+style="@style/Fragment">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/content">
+        <TextView   android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/ParagraphText"
+            android:text="Anybody can hold the helm when the sea is calm but at this Techfest, you will witness a sea full of competitions, which polishes and brings out knowledge, skills and determination within you. With the fields for competitions this year ranging from sustainability and design to advanced robotics to events based on pure sciences, Techfest has something in store for everyone."/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/ParagraphText"
+            android:text="Yes, the time has come when you can prove to the world that you have it in you. No legacy is as rich as that of Competitions at Techfest and we invite all of you to be a part of it. Get ready for the ultimate challenges awaiting you!"/>
+
+
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Xtreme Machines">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/xtrememachines"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Xtreme Machines"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Give your machines a chance to bring victory to you in this battle!"
+                    style="@style/SummaryText" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+        </LinearLayout>
+
+</ScrollView>

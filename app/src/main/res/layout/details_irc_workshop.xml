@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       During the course of history people have changed the manufacturing process dramatically.  Instead of items being produced by hand, the owners of the facilities created ways to have machines produce the items. The impact of changing the way items were manufactured had a wide reach.    This event will test how sharp is your mind and how much knowledge of manufacturing processes you have got  . Brain twistters and real workshop  task will bring the real of engineer out of you . Come in team of two show your potential .
+        "/>
+
+        
+    </LinearLayout>
+    

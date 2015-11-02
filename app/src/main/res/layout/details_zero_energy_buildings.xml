@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        The road to success is always under construction. Concrete is a civil engineer’s best friend. In this event the participants will be tested on their common sense and basic civil engineering knowledge especially regarding cement concrete.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+      Round 1-PUZZLE-A-MANIA
+
+RULES AND REGULATIONS: A slideshow will be shown asking :- · In first slide, there will be some questions related to different branches of engineering. · In the second slide, a crossword will be given to check the Civil Engg. Aptitude.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       Round 2-NIRMAAN ·
+
+Firstly, make a mould of specified dimensions with cardboard and tape. · The designed reinforcement then needs to be designed and fixed in the mould following which the concrete (design mix) is poured into the moulds. · The model of bridge kept for curing for a time period of one day. · The model after curing will be tested under loads on next day. · The dimension of the mould are:- Ø Clear span of bridge-40 Ø Minimum height of arch from base-12 Ø Height of bridge-18 Ø Width of supports-5 Ø Thickness of support/bridge-10 NOTE: All dimensions in cm.
+        "/>
+
+        
+    </LinearLayout>
+    

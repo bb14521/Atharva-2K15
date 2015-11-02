@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="In a far recess of summer
+                    ROBOTS will be playing soccer."/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Design and make a wired or wireless remote controlled robot and team that will be perform maximum goals in the task within limited time and the team having advanced robot would be consider for extra point in the task. "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1. A team can consist of a maximum of 3 participants. Students from different educational institutions can form a team. \n  2. If one bot has been damaged in the arena then the team will be given 3 min to repair their bot. \n 3. Teams cannot use other team’s robot in the arena. \n 4. Bot should not damage any opposite bot when playing in the arena otherwise team could be disqualified. \n  5.Team should use the battery of given specifications. \n 6. One goal is given 5 points.\n 7. Team cannot touch their bot after time has started and if arena is damaged by the bot 3 point will be deducted . \n 8. Only one penalty is allowed. "/>
+
+</LinearLayout>

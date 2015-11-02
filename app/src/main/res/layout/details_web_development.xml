@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+          Round 1:
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        Prove it First Round Will Be Pen Paper Round . Students Will Be Given Programming Based Questions. ranging from mcq to one line answer. the test would be of 30 Minutes Duration .
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        Round 2:
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       Code Buzz 40 teams from first round will reach second round Second Round Will Take Place An Hour later. it will be programming Round.. students will be asked to solve some programming Problems . There will be No language barrier and Students will be allowed to Carry Their Own laptops or the compiler of their choice by default .. Java Python and C++ Compiler will be installed and IDE DevCpp,Python ide and Netbeans will be preinstalled on each Desktop.
+        "/>
+
+        
+    </LinearLayout>
+    

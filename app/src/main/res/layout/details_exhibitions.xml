@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:textStyle="bold"
+        android:text="1)-COUNTER STRIKE 1.6
+
+PROCEDURE-
+A team( of 5 players each) competes against the other team . the competition is all about wining the round which for counter terrorist(team of 5 players) is to either eleminate the team or defuse the bomb set up by the terrorist (other team) before it goes off and for the terrorist is opposite of that.
+CONDUCT - There will be a total of 20 rounds for each team to play as a terrorist and counter terrorist (10 rounds each ) in the end the team to win the maximum no of rounds wins
+TYPE OF PLAY - KNOCK OUT"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:textStyle="bold"
+        android:text="2) - FIFA 15
+
+PROCEDURE- Simle as every other fifa game the person with more no goals at the end wins
+CONDUCT - 2 Players will compete against each other in the match at the end the one with the more no of goals compared to another wins
+TYPE OF PLAY - KNOCK OUT"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:textStyle="bold"
+        android:text="3) - BLUR
+
+PROCEDURE - its a car racing game in which the competitor's get points for bashing or destroying other cars . at the end player having maximum no of poi ts wins .
+CONDUCT - 4 Players will compete against each other in a motar bash competition where they will bash or destroy opposition cars and get points . every player is on his own no teams are there it is an individual play game. Winner is decided regarding the points in the match. Time needed for one match to complete will be aprox 12-13 min
+TYPE OF PLAY - KNOCK OUT"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:textStyle="bold"
+        android:text="4) - NEED FOR SPEED MOST WANTED
+
+PROCEDURE - same as any other need for speed game.....
+CONDUCT - 4 Players will compete in this game at a time .a race will be conducted and the one to complete the race first is the winner
+TYPE OF PLAY : KNOCK OUT"/>
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="The whole of the event is based on highlighting the DEMOCARTIC principles of resolving any problem through a constructive debate. The members of the parliament would be given equal opportunities to go through all of the processes included in a democratic country. From the process of making of the constituencies, campaigning, voting, declaration of results, Manifesto making, designing the party symbol upto the presentation of bill by the RULING PARTY and have a fruitful debate on the various clauses of the bill with that of OPPOSITION PARTY.  "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 1: The candidates would be scrutinized by the various kinds of the processes in the first round. After going through the various stages, the different parties will have to lure the voters by presenting the manifesto and asking them for votes. After that, the voting will take place. Based on the majority of votes for a party, a RULING PARTY will be decided and opposing will be decided. "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="ROUND 2: In this round, the different parties will have to submit their resolutions to the SPEAKER of the parliament and an ample amount of time would be given to each party so as to make their point and represent the bill in the house.
+"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 3: The debate on the various clauses of the bill will take place and side by side voting would be done. The bill would comprises of the issue detail, how to counter the issue keeping in view the expectations of the people from the bill. The bill needs to be passed in the house with clear majority.
+ "/>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        ROUND 1: IMAGE PIERCING In this round we will display images on a projector and teams will have to find that image on internet i.e., they will have to get the link of that image on web.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       ROUND 2: CODE HUNTERS In this round we will give a scenery to the teams and they will have to make the exact same scenery tough coding. The scenery will be made of lines, ellipses, circles and other outlines. The following is a sample image to be given to the teams to code.
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+       1. Team of 2. \n  2. In the first round internet is allowed but in the second round internet is not allowed. \n  3. Any programming language can be used like c++, java etc. \n 4. Inserting external images to the program in round 2 is not allowed. One has to make the complete drawing though coding only. \n 5. Participants need to pre-register and specify which languages they are using. \n  6. One team will be winner and one will be runner up.
+        "/>
+
+        
+    </LinearLayout>
+    

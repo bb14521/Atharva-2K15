@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="THE BEST MEMORIES COME FROM THE CRAZIEST IDEAS  "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Event consists of 3 rounds and a wild card round.
+ "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="JUMBLE DUMBLE Arranging yourself according to the given parameters. Different parameter will be given on spot. One who does first among the 4 teams get selected. In total 15 teams get selected for 2nd round.  "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="  GET IT THROUGH In this maximum needles and beads are to be put into the thread. It's a time event, after a particular time, no. of needles and beads will be counted.
+"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Wild card entries (SUBWAY SURFERS) It is a game related to our phone game. Eliminated teams will be given a chance. On basis of combined total of a team, one will be selected.
+ "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="BHAGAM BHAAG Field event related to water and ball.
+ "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Entry of two as a team will be entertained.
+ "/>
+
+</LinearLayout>

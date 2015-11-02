@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Life needs balance, so do our Atharva. So in the midst of the aroma of technical events we are adding the exact pinch of spices (Carnival) everyone needed and wanted and demanded.
+Carnival will be held at football ground on both days of Atharva. It'll consist of different zones, like Women's Era, Fun Era, Puzzle Era, Food Court etc. Different Era's will have all the type of fun games which will engage you undoubtedly but will also relax you from that constant brainstorming that you all will be doing at technical events.
+So, Carnival is a place where you can stand or sit, can rush your adrenaline or relax, choice will be yours.
+Join us at the Coolest place on the planet Atharva."/>
+
+
+</LinearLayout>

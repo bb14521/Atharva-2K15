@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+This event enquires your knowledge about understanding kinematics and dynamics of Landform and make your imagination about world a reality.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+ROUND-1
+This Round will be a quiz round comprising technical and fun based questions to check the knowledge and imagination skill about the topography view of world. Teams qualifying in this round will then proceed to the final round.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Round -2
+In this round problem regarding designing the topographical view of college according to number of students, number of department numbers of labs in each branch etc and a specified sheet with specific type of material will be given to participents by organisers. One day will be given to each team for preparing the design. Other details and rules regarding this round will be told on the spot.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Rules-
+1. A team may consist upto 3 members and team mates can be from different disciple.
+2. It is open for all branches and Material will be provided by organizers.
+3. The decision of judges shall be final and binding.
+
+        "/>
+
+        
+    </LinearLayout>
+    

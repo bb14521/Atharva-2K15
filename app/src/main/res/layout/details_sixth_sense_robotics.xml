@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+A Mega technofun event related to electronics and electrical engineering. The technicality of the event is evident from the use of elements and circuit making related to electronics. But not making it just a technical event, a fun element is also added so that the participants will enjoy as well as learn team spirit and time management.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+ROUND 1: APTIMETER
+This round consists of aptitude questions related to electronics and electrical engineering.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+ROUND 2: QUIZZARD
+In this round participants will have to guess the correct answers to the visual clips shown to them on projector in a given amount of time. The visual clips may be about anything (General Knowledge, Movies, electronics, gadgets, etc.).
+
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+ROUND 3: PIC-O-MANIA
+As everyone likes field events so we have introduced one for you! This round is super exciting and fun filled. It is basically a treasure hunt in which participants have to find a particular thing in the college premises by cracking the hints given to them. For each thing you find, you will be given money
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+ROUND 4: TRADE-O-CIRCUIT
+The third and fourth rounds are interlinked. The money collected by teams in the previous rounds will be used in a super exciting way and the teams have to create a circuit given to them by the judicial use of money. \n
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+1. Team size: Maximum of 2 persons per Team. No single entry will be allowed.
+2. Registration Fees: Rs.20 per Participant.
+        "/>
+
+
+        
+    </LinearLayout>
+    

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="A Workshop On Ethical Hacking where you will be taught about the vulnerabilities and how to secure your devices from cyber threat"/>
+
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Registration Fee - 200/- per person"/>
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        Round 1 :- Mind Boggle
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        It would be a written test but in a different way . Eg . A picture would be printed on a page which may contain a blueprint of any project (say hydroelectric plant / power plant / or any mechanical assembly/ electrical components) , students have to list the problems/ faults in the project and then suggest measures for its proper working .
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+         Round 2 :- Liftogram
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+          10 teams will be qualified for this round .In this round , students have to make a robot (which picks a paper ball) just by use of given material . There will be a quiz at start of round which will contain questions regarding video .5 teams will clear the quiz and then they have to start their manufacturing of robot . During the manufacturing , they can ask for help , but for each call there will be a one negative mark for the team .
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        Round 3 :- Yardbots
+
+        "/>
+
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        All 5 teams will compete in this round , the team which is first to make robo will enter this round first . The teams will perform task of picking ball and put it to other end . Each ball correspond to four marks . And accordingly negative marks are given if team call for help in 2nd round .The team which will have maximum marks/points would win !
+        "/>
+
+        
+    </LinearLayout>
+    

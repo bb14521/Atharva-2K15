@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+          This is a 24 hour coding event and first ever Hackathon by Our College.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+         The skilled  developers, designers, technology enthusiasts showcase their hard-work and knowledge, explore new ideas and create amazing applications during the 24 hours hackathon in GNE. Participants code for 24 hours with enthusiasm and bring their own ideas to life via a demo application or a prototype which is their weapon to steal amazing prizes from the hackathon.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+Rules:-
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+1. Participants may use any available public API in their project. \n 2. Teams must not be more than four members. Minimum number in a team should be two. \n Individuals can also participate, we will help you build a team at the venue.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        LET'S CODE!!
+        "/>
+
+        
+    </LinearLayout>
+    

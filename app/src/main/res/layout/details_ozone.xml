@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+        android:text="This is a event where all participants are invited to submit their project for exhibition . Participants have to make a presentation on their project and their projects will be evaluated oon their presentation"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="The four categories based on the branch are as follows:- \n 1.CSE/IT \n 2.Mechanical and Production \n 3.Electronics and Electrical \n 4.Civil"/>
+</LinearLayout>

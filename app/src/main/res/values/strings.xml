@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Atharva</string>
+    <string name="title_home">Home</string>
+    <string name="registerlink"><a href="http://www.foreseegame.com/PromotionalActivities.aspx?paramPro=IITBombay1">Get Your Techfest ID here</a></string>
+
+    <string name="title_technoholix">Workshop</string>
+    <string name="title_competitions">Carnival</string>
+
+    <string name="title_lectures">Fun Events</string>
+    <string name="title_exhibitions">Lan Gaming</string>
+    <string name="title_ozone">Model Exhibition</string>
+    <string name="title_map">Map</string>
+    <string name="title_conference">Our Sponsors</string>
+    <string name="title_ideate">Competition</string>
+    <string name="title_workshops">Tech Events</string>
+    <string name="title_developers">Developers</string>
+    <string name="no_market">No Google Play Found !.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/Fragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="rathor0023"
+       android:weightSum="1">
+
+        <ImageView
+            android:src="@drawable/bbrzzz"
+            style="@style/SummaryImage"
+            android:layout_height="113dp"
+            android:id="@+id/Bharat"
+            android:layout_width="113dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bharat Bhushan"
+                style="@style/SummaryTitle"
+                
+                android:autoText="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Computer Science  Engineering | GNDEC Ludhiana"
+                style="@style/SummaryText"/>
+                
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="harman.bhutani.3"
+        android:weightSum="1">
+
+        <ImageView
+            android:src="@drawable/aaa"
+            style="@style/SummaryImage"
+            android:layout_height="113dp"
+            android:id="@+id/Harman"
+            android:layout_width="113dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Harman Bhutani"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Computer Science  Engineering | GNDEC Ludhiana"
+                style="@style/SummaryText"/>
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="ashutosh.ash"
+        android:weightSum="1">
+
+        <ImageView
+            android:src="@drawable/ashutoosh"
+            style="@style/SummaryImage"
+            android:layout_height="113dp"
+            android:id="@+id/ashutosh"
+            android:layout_width="113dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ashutosh "
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Computer Science  Engineering | GNDEC Ludhiana"
+                style="@style/SummaryText"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+</LinearLayout>

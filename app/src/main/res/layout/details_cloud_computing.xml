@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        A technical cum fun event in which an individual will get the chance to show its intellectual and constructing skills while working as a team . Very interactive sets of events will help you remember your childhood days .
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        ROUND 1: PICTURESQUE Round which proves the saying ‘VISUAL MAY BE DECEPTIVE’ .Set of questions related to a picture shown , will show the vision , thoughts and ultimately intellectual ability.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        ROUND 2: PUZZLE HUNT Round in which one has to hunt for the puzzle and the other will complete it.
+        "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="
+        ROUND 3: DAM-IT Round in which one will get the chance to show skills of constructing dam with provided material (sand, gravel and water etc.) which can withstand the water load for the maximum time .
+        "/>
+
+        
+    </LinearLayout>
+    

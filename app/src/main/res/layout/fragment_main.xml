@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Fragment">
+    <ImageView
+        android:layout_width="wrap_content"
+        style="@style/DetailsImage"
+        android:src="@drawable/ab"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Atharva is the annual science and technology festival of GNDEC,Ludhiana. Atharva is known for hosting a variety of events that include competitions, exhibitions, lectures as well as workshops."/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Started in 2012 ..“Atharva” generally means First Vedas  or knowledge which is created, inspired, shared and imbibed in the true sense . ATHARVA is about giving young people a platform  to transform their knowledge into practice making them relevant to the world around us. It hopes to rejuvenate the young minds with a touch of realistic innovation and dynamic ideas. It aims at giving them a brush of the things beyond the syllabus of the university but which surely are an indispensable part of the real world, and bringing out the hibernating creativity and talent in many ways. STEVE JOBS marked the secret behind the success by quoting  “have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. Never quit and working ruthlessely is something that can break  diamonds out of stones. Atharva aims at motivating the young guys to work and embibe themselves in self exploration  , to test  their skills and their hidden qualities."/>
+</LinearLayout>

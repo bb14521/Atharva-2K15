@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="A Workshop On preparation of UPSC exam by Etan IAS where you will be given an idea how to prepare and crack UPSC Exam"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="No Registration Fee"/>
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="“Everything Is Connected” Who doesn’t have a little detective inside? Well, we provide you a chance to live the life of that detective for a day. Give your brain a strenuous mission to unravel the mystery of a crime because its time you stop seeing and reading that fiction. It’s time to be the Sherlock of that fiction.
+CSI 3.0-GNDEC is striking back this Atharva-2015 with more thought provoking, impudent, crooked and filthy crimes to decipher. It’s time to catch the delinquent and castigate him! "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Round-1 (Villainy Inquisition) It’s a pen and paper based round. Participants will have to disentangle the enigma to advance to the next round.  "/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Round -2 ( Charade Jack!) Finalists have to reach the delinquent by solving a series of questions and collecting traces from all over the vicinity. The first team to come up with the correct offender is declared as the winner. "/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Maximum 2 members can participate in a team. No single entries will be allowed. - A team may comprise of participants from two different colleges. - Once registration is done no change in team will be entertained "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="REGISTRATION: On the spot "/>
+</LinearLayout>

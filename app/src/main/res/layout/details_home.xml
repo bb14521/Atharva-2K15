@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="A Workshop On Home Security and how to establish it with your Smart Phone"/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text=" Registration Fee - 25/- per person"/>
+</LinearLayout>

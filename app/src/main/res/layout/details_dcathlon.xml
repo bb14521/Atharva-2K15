@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Don’t back down! Get a satisfaction from being tested and defeating the test!! Sometimes you have to resist working on your strengths in favour of your weaknesses. The decathlon requires a wide range of skills…  "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 1: LAST MAN STANDING Use your sherlockian skills to find or answer given questions "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 2: ALPHABETICS Find different technical words from different jumbled grids "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 3: BUILD IT Make a tower using given material "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 4: BURN IT Keep a balloon on a candle flame for 10 seconds without bursting it "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 5: MEMORIZE Memorize and write at least 10 words from the set shown to you in 15 seconds written in a particular colour "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 6: SHOTS IN A ROW A team has to bounce and put three balls in a 9x9 grid by bouncing them on a table "/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 7: EAT IT IF YOU CAN Give 4 correct answers otherwise face the hell!!!"/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="ROUND 8: SUDDEN DEATH Move an iron rod through a roller coaster circuit or you will be shocked by the consequences.
+"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="ROUND 9: RAPID FIRE Take on the bouncing questions which come your way."/>
+
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text=" ROUND 10: THE MAZE RUNNER Trust your partner and reach your goal.
+ "/>
+
+</LinearLayout>
